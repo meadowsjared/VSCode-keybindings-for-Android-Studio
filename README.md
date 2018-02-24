@@ -8,4 +8,4 @@ You can import these VSCode keybindings into Android Studio using
 
 You should now have the VSCode keybindings available to use in Android Studio!
 
-There were made using "Android Studio 3.4 Canary 4"
+These were made using "Android Studio 3.4 Canary 4"
