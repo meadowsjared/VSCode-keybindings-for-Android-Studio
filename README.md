@@ -16,4 +16,4 @@ You can import these VSCode keybindings into Android Studio using
 - on the left, click on `KeyMap`
 - at the top, there is a dropdown that may say `Default`, click on that and click `VSCode`
 
-Note: These were made using "Android Studio 3.4 Canary 4"
+*Note: These were made using "Android Studio 3.4 Canary 4"*
