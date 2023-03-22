@@ -4,7 +4,7 @@ This jar file will allow you to import the most popular VSCode keyboard shortcut
 # How to import the jar file
 You can import these VSCode keybindings into Android Studio using
 
-1. `File` -> `Import Settings...`
+1. `File` -> `Manage IDE Settings` -> `Import Settings` ( Older Versions: `File` -> `Import Settings...` )
 2. select `Android_Studio_Keybindings.jar` (wherever you saved it to) and hit `OK`
 3. Make sure both `Key maps` and `Key maps (schemas)` are checked and hit `OK`
 4. On the next dialog, click `OK` to restart `Android Studio` to reload the settings.
